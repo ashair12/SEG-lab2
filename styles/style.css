@@ -1,6 +1,14 @@
 /* This style sheet is taken from  https://www.w3schools.com/howto/howto_js_tabs.asp> */
 
 /* Style the tab */
+
+.title{
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+  float: center;
+}
+
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
